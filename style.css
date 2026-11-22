@@ -1,0 +1,49 @@
+.bree-serif-regular {
+  font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+    background-color: black;
+    color: white;
+
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+}
+ul{
+    text-decoration: none;
+    color: white;
+    font-family: "Bree Sarif",serif;
+    font-size: 20px;
+}
+button{
+    background-color: #F65F5F;
+    border: none;
+    font-family: "Bree Serif",serif;
+    font-size: 20px;
+    border-radius: 25px;
+    background-color: #F65F5F;
+    padding: 10px  20px;
+}
+
+#sub-color1{
+    color: #F65F5F;
+}
+#sub-color{
+    color: #FDC55E;
+}
+.hero-sec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.shanti-regular {
+  font-family: "Shanti", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
